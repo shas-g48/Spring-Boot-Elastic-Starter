@@ -1,5 +1,5 @@
 # Spring-Boot-Elastic-Starter
-Starter Spring Boot Elastic Project
+starter spring boot elastic project
 
 ## Setup Instructions
 1. Clone the repository
